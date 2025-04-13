@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+h1 span {
+  color: #007bff;
+}
+
+.delete {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.delete:hover {
+  background-color: darkred;
+}
